@@ -3,8 +3,16 @@
 </a>
 
 #  Bre-R Escape Room:fist:
-aka 0x0B-unity-vr_room
+## Disclaimer: 
+This #VR application was developed with an intent to meet specific requirements set forth in the software engineering AR/VR specialization curriculum I'm currently undertaking, with this project spanning an 11-day window. That being said, no further maintenance or updates are to be expected. 
+
+## THE BRE-R ESCAPE ROOM EXPERIENCE
+  - Explore the room for interactable objects and maybe you'll be lucky enough to interact with the right combination to unlock the door to a whole new room with new surprises and ultimately uncover the logo to ToastBrush Enterprises to win the whole #shebang!!
+
+##  APK Package
+Github Link to find the APK Build to experience on Oculus Quest 2 headset:
+https://github.com/brerickner/0x0B-un...
 ##  :movie_camera:<b>WATCH DEMO REEL ----> [MEOW](https://youtu.be/7dvtWqieUJs)!:smile_cat:
   
-  ### This is an <underline>Oculus Quest 2</underline> Experience
-Find the APK in 'releases' :arrow_right::arrow_right::arrow_right::arrow_right::arrow_right::arrow_right::arrow_right::arrow_right::arrow_right::arrow_right::arrow_right:
+### APK Release
+Find the APK in [Releases](https://github.com/brerickner/0x0B-unity-vr_room/releases):arrow_right::arrow_right::arrow_right::arrow_right:
