@@ -4,7 +4,7 @@
 
 #  Bre-R Escape Room:fist:
 ## Disclaimer: 
-This #VR application was developed with an intent to meet specific requirements set forth in the software engineering AR/VR specialization curriculum I'm currently undertaking, with this project spanning an 11-day window. That being said, no further maintenance or updates are to be expected. 
+This #VR application was developed with an intent to meet specific requirements set forth in the software engineering AR/VR specialization curriculum. This project spanned an 11-day window. That being said, all requirements for the project were met but no further maintenance or updates are to be expected. 
 
 ## THE BRE-R ESCAPE ROOM EXPERIENCE
   - Explore the room for interactable objects and maybe you'll be lucky enough to interact with the right combination to unlock the door to a whole new room with new surprises and ultimately uncover the logo to ToastBrush Enterprises to win the whole #shebang!!
